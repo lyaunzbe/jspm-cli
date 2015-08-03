@@ -20,7 +20,7 @@
     "rimraf": "^2.4.0",
     "rsvp": "^3.0.18",
     "semver": "^4.3.6",
-    "systemjs": "^0.18.2",
+    "systemjs": "0.18.4",
     "systemjs-builder": "^0.12.1",
     "traceur": "0.0.90",
     "uglify-js": "~2.4.23"
